@@ -1,0 +1,27 @@
+* {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+h3 {
+    font-size: 1em;
+}
+
+body {
+    width:100px;
+}
+
+input {
+    width: 50%;
+}
+
+#row {
+    width:100%;
+}
+
+#clear {
+    width: 100%;
+}
+
+#calculate {
+    width: 100%;
+}
