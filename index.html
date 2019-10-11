@@ -5,13 +5,17 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
   </head>
   <body>
-    <p>a = <input type = "text" id="a"></p>
-    <p>b = <input type = "text" id="b"></p>
-    <p>c = <input type = "text" id="c"></p>
-    <p>r<sub>1</sub> = <input type = "text" id="result1" readonly></p>
-    <p>r<sub>2</sub> = <input type = "text" id="result2" readonly></p>
-        <input type="submit" id="calculate" value="Calculate!"/>
-        <input type="submit" id="clear" value="Clear"/>
+    <p>0 = ax<sup>2</sup> + bx + c</p>
+    <p>a = <input type = "number" id = "a" value = ""></p>
+    <p>b = <input type = "number" id = "b" value = ""></p>
+    <p>c = <input type = "number" id = "c" value = ""></p>
+    <p>r<sub>1</sub> = <input type = "number" id = "result1" readonly value = ""></p>
+    <p>r<sub>2</sub> = <input type = "number" id = "result2" readonly value = ""></p>
+    <div id = "virtualmessage"><p>&#42;virtual roots</p></div>
+    <p>&alpha;</sub> = <input type = "number" id = "alpha" readonly value = ""></p>
+    <p>&beta; = <input type = "number" id = "beta" readonly value = ""></p>
+    <input type="submit" id="calculate" value="Calculate"/>
+    <input type="submit" id="clear" value="Clear"/>
   </body>
   <script src="js/jquery.js"></script>
   <script src="js/calculator.js"></script>
