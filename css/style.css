@@ -2,15 +2,15 @@
     font-family: "Arial", "Helvetica", sans-serif;
 }
 
-h3 {
+p {
     font-size: 1em;
+    color: white;
 }
 
+
 body {
-    border:10px solid black;
-    margin
-    
-    background-color: ghostwhite;
+    width:100px;
+    background-color: #333;
 }
 
 input {
@@ -25,6 +25,7 @@ input {
     background-color: #333;
     color:ghostwhite;
     border-radius: 10px;
+    border-style:none;
     line-height: 20px;
 }
 
