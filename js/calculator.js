@@ -56,7 +56,7 @@ function displayRoots () {
 }
 
 
-/*Caculates the roots of a 2nd degree polynomial.
+/*Calculates the roots of a 2nd degree polynomial.
 Inputs: doubles a, b, and c as parameters.
 Returns: an array composed of:
 [first root, second root, alpha, beta, virtual] */
