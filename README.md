@@ -1,5 +1,5 @@
-# Quadratic Formula Calculator Plug-In
-This is a toy program to experiment with creating a browser plug-in. Also very handy with Calculus homework!
+# Quadratic Formula Calculator Extension
+This is a toy program to experiment with creating a browser extension. Also very handy with Calculus homework!
 
 ## See it in action:
 ![](documentation/pics/real.png)
